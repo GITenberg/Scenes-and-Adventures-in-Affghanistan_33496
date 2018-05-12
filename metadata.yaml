@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42162'
     url: http://www.gutenberg.org/2009/agents/42162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33496#Scenes-and-Adventures-in-Affghanistan
 gutenberg_issued: '2010-08-23'
 gutenberg_type: Text
 identifiers:
