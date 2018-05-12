@@ -1,0 +1,25 @@
+_repo: Scenes-and-Adventures-in-Affghanistan_33496
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, William
+    gutenberg_agent_id: '42162'
+    url: http://www.gutenberg.org/2009/agents/42162
+description: ''
+gutenberg_issued: '2010-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Afghan Wars'
+- !lcsh 'Afghanistan -- Description and travel'
+title: Scenes and Adventures in Affghanistan
+url: http://www.gutenberg.org/ebooks/33496
